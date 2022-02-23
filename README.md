@@ -1,0 +1,2 @@
+# MusicEvents.Cross
+Librerias externas
